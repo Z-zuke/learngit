@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick simple.
 Test remote branch.
 Edit on dev branch.
+Revise bug issue.
